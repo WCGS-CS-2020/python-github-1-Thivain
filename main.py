@@ -11,11 +11,18 @@
 
 
 def fibonacci (x) :
-  #
-  # Fill in your code below
-
+if number = 1
   return 1
-
+    if(Number = 0):
+        return 0
+   
+    else :
+        return (Fibonacci(Number - 1) + Fibonacci(Number - 2)
+            
+number = int(input("Please Enter the Number: ")) 
+                for Num in range(0, Number):
+                print(fibonacci(Num)
+                
 
 # 
 # Test your code there
